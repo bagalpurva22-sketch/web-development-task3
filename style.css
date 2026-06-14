@@ -1,0 +1,38 @@
+ .h
+ {color: darkblue;}
+
+ #bglime{
+    background-color: lime;
+ }
+
+ #bglime span{
+    color: red;
+ }
+ body{
+    background-color: orangered;
+ }
+
+ p{
+    color: white;
+ }
+
+     #para{
+        color: green;
+     }
+
+     #para span{
+        color: black;
+        font-size:x-large;
+     }
+      
+     .ul1{
+        color: white;
+     }
+     #a1 p{color: black;}
+
+     #l1{
+        color: blue;
+     }
+     #l3{
+        color: rgb(127, 7, 7);
+     }
